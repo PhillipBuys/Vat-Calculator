@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vat Calculator", "Vat Calculator.csproj", "{E0746F5C-7799-4DAD-A1D6-F9E6FA060164}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0746F5C-7799-4DAD-A1D6-F9E6FA060164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0746F5C-7799-4DAD-A1D6-F9E6FA060164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0746F5C-7799-4DAD-A1D6-F9E6FA060164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0746F5C-7799-4DAD-A1D6-F9E6FA060164}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {749F0DD3-C693-43D1-8D84-A114CACDB9FB}
+	EndGlobalSection
+EndGlobal
